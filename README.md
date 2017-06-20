@@ -1,2 +1,6 @@
-# ElenaEliane.github.io
-industrial designe
+# Industrial design
+
+Использовалось: HTML5, CSS3.
+Сетка: определена в макете. 
+Адаптивность вёрстки: да. 
+Кроссбраузерность: последние версии браузеров.
